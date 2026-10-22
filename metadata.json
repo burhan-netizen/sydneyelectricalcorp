@@ -1,0 +1,6 @@
+{
+  "name": "Sydney Electrical Corp",
+  "description": "Licensed residential and commercial electrical contractor serving Greater Sydney, NSW. Specialists in architectural lighting, switchboard upgrades, new builds, smart home automation, and power installations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
